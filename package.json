@@ -1,0 +1,16 @@
+{
+  "name": "tdd-showcase-2",
+  "version": "1.0.0",
+  "description": "testing showcase in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "app": "nodemon"
+  },
+  "author": "Curt Bryan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jest": "^26.4.2"
+  }
+}
